@@ -54,7 +54,7 @@
 
 5. and then the system would create a php file in ./kruxton/assets/upload
 
-   ![image-20230311151123673](D:\网安学习\tryCVE\kruxton-1.assets\image-20230311151123673.png)
+   ![](https://github.com/paiqian/kruxton/blob/main/static/image-20230311151123673.png)
 
 6. then access page http://172.31.171.96/kruxton/assets/uploads/1678518540_123.php
 
