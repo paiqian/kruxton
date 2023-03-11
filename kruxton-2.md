@@ -55,7 +55,7 @@ sourcecode:
 	}
 ```
 
-![image-20230311161649893](D:\网安学习\tryCVE\kruxton-2.assets\image-20230311161649893.png)
+![](https://github.com/paiqian/kruxton/blob/main/static/image-20230311161649893.png)
 
 sqlmap command: 
 
@@ -65,6 +65,6 @@ sqlmap -u http://172.31.171.96/kruxton/ajax.php?action=save_category --data "nam
 
 inject result: 
 
-![image-20230311164750182](D:\网安学习\tryCVE\kruxton-2.assets\image-20230311164750182.png)
+![](https://github.com/paiqian/kruxton/blob/main/static/image-20230311164750182.png)
 
-![image-20230311164806021](D:\网安学习\tryCVE\kruxton-2.assets\image-20230311164806021.png)
+![image-20230311164806021](https://github.com/paiqian/kruxton/blob/main/static/image-20230311164806021.png)
