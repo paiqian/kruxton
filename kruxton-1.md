@@ -50,7 +50,7 @@
    
    ```
 
-   ![image-20230311152452601](D:\网安学习\tryCVE\kruxton-1.assets\image-20230311152452601.png)
+   ![](https://github.com/paiqian/kruxton/blob/main/static/image-20230311152452601.png)
 
 5. and then the system would create a php file in ./kruxton/assets/upload
 
@@ -58,7 +58,7 @@
 
 6. then access page http://172.31.171.96/kruxton/assets/uploads/1678518540_123.php
 
-   ![image-20230311151402551](D:\网安学习\tryCVE\kruxton-1.assets\image-20230311151402551.png)
+   ![image-20230311151402551](https://github.com/paiqian/kruxton/blob/main/static/image-20230311151402551.png)
 
    The format of the file name is the timestamp plus the file name of the upload. The value of the timestamp is the timestamp corresponding to the time of the upload moment. You can bursting it in the approximate range.
 
