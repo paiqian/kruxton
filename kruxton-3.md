@@ -63,7 +63,7 @@ sourcecode:
 	}
 ```
 
-![image-20230311170341007](D:\网安学习\tryCVE\kruxton-3.assets\image-20230311170341007.png)
+![image-20230311170341007](https://github.com/paiqian/kruxton/blob/main/static/image-20230311170341007.png)
 
 sqlmap command: 
 
@@ -73,4 +73,4 @@ sqlmap -u http://172.31.171.96/kruxton/ajax.php?action=save_product --data "name
 
 inject result: 
 
-![image-20230311170434640](D:\网安学习\tryCVE\kruxton-3.assets\image-20230311170434640.png)
+![image-20230311170434640](https://github.com/paiqian/kruxton/blob/main/static/image-20230311170434640.png)
